@@ -4,7 +4,7 @@ Bem-vindo ao meu portfólio! Este repositório é uma coleção dos meus primeir
 
 ## Sobre Mim
 
-Me chamo Isaías, um estudante de Desenvolvimento de Sistemas. Estou começando minha jornada no mundo da programação e estou empolgado para aprender e crescer nesta área. Atualmente, estou focado em adiquirir habilidabes como PHP, JavaScript, Python, HTML/CSS, MySQL e alguns frimeworks Laravel, Django e React.
+Me chamo Isaías, um estudante de Desenvolvimento de Sistemas. Estou começando minha jornada no mundo da programação e estou empolgado para aprender e crescer nesta área. Atualmente, estou focado em adiquirir habilidabes como PHP, JavaScript, Python, HTML/CSS, MySQL e alguns frameworks Laravel, Django e React.
 
 ## Projetos
 
