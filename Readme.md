@@ -10,22 +10,22 @@ Me chamo Isaías, um estudante de Desenvolvimento de Sistemas. Estou começando 
 
 Mesmo sendo iniciante, já comecei a trabalhar em alguns projetos/exercícios simples que me ajudaram a entender melhor os conceitos da programação (a maioria em JavaScript).
 
-. **Projetos Senac(https://github.com/izazaias/projetosSenac)**: Nesse repositório estão todos os exercícios que desenvolvi no Senac que me fizeram compreender sobre lógica de programação.
+* **Projetos Senac(https://github.com/izazaias/projetosSenac)**: Nesse repositório estão todos os exercícios que desenvolvi no Senac que me fizeram compreender sobre lógica de programação.
 
-. **Lista de Tarefas(https://github.com/izazaias/ListadeTarefas)**: Nesse repositório desenvolvemos em sala de aula uma lista de tarefas, onde nela o usuário irá colocar quais tarefas ele irá realizar em determinado dia. Nesse projeto utilizamos as tecnologias: JavaScript, HTML5 e CSS.
+* **Lista de Tarefas(https://github.com/izazaias/ListadeTarefas)**: Nesse repositório desenvolvemos em sala de aula uma lista de tarefas, onde nela o usuário irá colocar quais tarefas ele irá realizar em determinado dia. Nesse projeto utilizamos as tecnologias: JavaScript, HTML5 e CSS.
 
 ## Habilidades em Desenvolvimento
 
 Estou em fase de aprendizado, mas já comecei a desenvolver algumas habilidades:
 
 * **Linguagens de Programação**:
-. JavaScript
-. PhP
-. MySQL
+* JavaScript
+* PhP
+* MySQL
 
 * **Ferramentas e Tecnologias**:
-. Laravel
-. Git e GitHub
+* Laravel
+* Git e GitHub
 
 ---
 
