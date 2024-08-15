@@ -19,13 +19,13 @@ Mesmo sendo iniciante, já comecei a trabalhar em alguns projetos/exercícios si
 Estou em fase de aprendizado, mas já comecei a desenvolver algumas habilidades:
 
 * **Linguagens de Programação**:
-* JavaScript
-* PhP
-* MySQL
+-> JavaScript
+-> PhP
+-> MySQL
 
 * **Ferramentas e Tecnologias**:
-* Laravel
-* Git e GitHub
+-> Laravel
+-> Git e GitHub
 
 ---
 
