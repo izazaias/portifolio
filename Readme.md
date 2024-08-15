@@ -30,4 +30,4 @@ Estou em fase de aprendizado, mas já comecei a desenvolver algumas habilidades:
 ---
 
 Obrigado por visitar meu portfólio!
-Estou muito animado para continuar aprendendo e compartilhar meu processo com a comunidade do GitHub.
+Estou muito animado para continuar aprendendo e compartilhar meu processo com a comunidade do GitHub. :wink:
