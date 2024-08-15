@@ -64,3 +64,34 @@ body{
     transition: 1s; 
 }
 
+.btn_icon_header{
+    background-color: transparent;
+    border: none;
+    color: var(--color-white);
+    cursor: pointer;
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+    .btn_icon_header{
+        display: block;
+    }
+
+    .navegacao_header{
+        position: absolute;
+        flex-direction: column;
+        top: 0;
+        background-color: var(--color-dark5);
+        height: 100%;
+        width: 35vw;
+        padding: 1em;
+        animation-duration: 1s;
+        margin-left: -100vw;
+    }
+
+    /* Criando animação do menu para dispositivos moblies */
+    @keyframes showSidebar {
+        from {margin-left: -100vw;}
+        top {margin-left: -10vw;}    
+    }
+}
